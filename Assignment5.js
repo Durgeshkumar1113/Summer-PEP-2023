@@ -1,0 +1,10 @@
+var cart =[1,2,3,4,5]
+console.log(cart)
+cart.push(6)
+console.log(cart)
+cart.unshift(0)
+console.log(cart)
+cart.pop(6)
+console.log(cart)
+cart.shift()
+console.log(cart)
